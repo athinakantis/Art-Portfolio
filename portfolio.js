@@ -4,7 +4,6 @@ function expandAbout() {
     var sibling = text.nextElementSibling;
     var paragraph = document.getElementById('info');
     
-    // Check if the about element is already expanded
     var isExpanded = text.getAttribute('data-expanded') === 'true';
     
     if (!isExpanded) {
