@@ -11,5 +11,6 @@ My main goal of the page was:
 My future plans and ideas for the website are:
 - Make the website more accessible
 - Add a page or feature to show any web features I've worked on (right now I don't have any)
+- Add a shopping system, which allows you to purchase a painting 
 
-- Thanks for any feedback 🌸
+Thanks for any feedback 🌸

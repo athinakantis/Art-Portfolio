@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Lemon";
-    src: url(./fonts/Lemon\ Tuesday.otf);
+    src: url(./resources/Lemon\ Tuesday.otf);
 }
 
 @font-face {
     font-family: "LANENAR";
-    src: url(./fonts/LANENAR_.ttf);
+    src: url(./resources/LANENAR_.ttf);
 }
 
 html{
