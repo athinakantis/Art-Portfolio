@@ -13,7 +13,6 @@ html{
     font-size: 18px;
     transition: all 1s;
     box-sizing: border-box;
-    background-image: url(./resources/mymind.jpg);
 }
 
 h1 {
@@ -46,7 +45,7 @@ h2{
 }
 
 body{
-    background-image: url(./img/Backgrounds/mymind.jpg);
+    background-image: url(./resources/mymind.jpg);
     background-repeat: no-repeat;
 
 }
