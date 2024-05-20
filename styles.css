@@ -13,6 +13,7 @@ html{
     font-size: 18px;
     transition: all 1s;
     box-sizing: border-box;
+    background-image: url(./resources/mymind.jpg);
 }
 
 h1 {
