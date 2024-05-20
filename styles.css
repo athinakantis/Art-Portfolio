@@ -40,14 +40,12 @@ h2{
     font-size: 18px;
     color: lavender;
     font-weight: lighter;
-
     transition: all 1s ease-out;
 }
 
 body{
     background-image: url(./resources/mymind.jpg);
     background-repeat: no-repeat;
-
 }
 
 .maincontainer{
